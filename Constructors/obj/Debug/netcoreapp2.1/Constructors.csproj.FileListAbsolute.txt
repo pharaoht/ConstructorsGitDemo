@@ -1,0 +1,11 @@
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\bin\Debug\netcoreapp2.1\Constructors.deps.json
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\bin\Debug\netcoreapp2.1\Constructors.runtimeconfig.json
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\bin\Debug\netcoreapp2.1\Constructors.runtimeconfig.dev.json
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\bin\Debug\netcoreapp2.1\Constructors.dll
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\bin\Debug\netcoreapp2.1\Constructors.pdb
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.csprojAssemblyReference.cache
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.AssemblyInfo.cs
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.dll
+C:\Users\Pharaoh Manson\source\repos\Constructors\Constructors\obj\Debug\netcoreapp2.1\Constructors.pdb
